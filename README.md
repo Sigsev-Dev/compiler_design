@@ -22,7 +22,7 @@ LAB 1
     Lex Program to determine whether the input stream is a sequence containing only digits or a sequence containing only alphabets
 
     Sample Input 1:-
-    Mahi
+    Dev
     Sample Output 1:-
     alphabet(s)
 
@@ -58,7 +58,7 @@ LAB 2
     Lex Program to determine if the input stream contains only alphabets
 
     Sample Input 1:-
-    MahiVerma
+    Dev
     Sample Output 1:-
     All Alphabets
 
@@ -75,17 +75,17 @@ LAB 2
     Handle if characters other than alphabets also present.
 
     Sample Input 1:-
-    mahi
+    dev
     Sample Output 1:-
     Lowercase characters only
 
     Sample Input 2:-
-    MAHI
+    DEV
     Sample Output 2:-
     Uppercase characters only
 
     Sample Input 3:-
-    Mahi
+    Dev
     Sample Output 3:-
     Both lowercase and uppercase characters
 
@@ -113,7 +113,7 @@ Lab 3
     Vowel(s)
 
     Sample Input 3:-
-    Mahi
+    Dev
     Sample Output 3:-
     Both vowels and consonants
 
@@ -316,7 +316,7 @@ LAB 6
     Format: (recipient name)@(domain name).(top level domain name)
 
     Sample Input 1:-
-    mahi1528@gmail.com
+    abc111@gmail.com
     Sample Output 1:-
     Valid Email Id!
 
