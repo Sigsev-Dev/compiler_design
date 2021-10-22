@@ -1,6 +1,6 @@
 
   <p align="center">
-  <img src="./IIITRanchiLogo.png" alt="InstituteLogo" width="200">
+  <img src="https://github.com/Sigsev-Dev/compiler_design/blob/main/pngs/logo.png" alt="InstituteLogo" width="200">
    </p>
 
    # Compiler Design Lab Record
